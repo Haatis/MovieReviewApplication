@@ -1,7 +1,7 @@
 # MovieReviewApplication
 <h3>This is a fullstack project, which displays movies from TMDB and has its own MySQL database, for users and reviews.</h3>
 <h3>Try it out</h3>
-<a>https://movie-review-app-frontend.netlify.app/</a>
+https://movie-review-app-frontend.netlify.app/
 <p>Unfortunately I don't have backend hosted currently, so reviewing movies/logging/registering wont work.</p>
 <h3>How to install:</h3>
 <p>Run 'npm i' on client and server.</p>
