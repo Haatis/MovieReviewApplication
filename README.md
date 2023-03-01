@@ -8,6 +8,7 @@
 <p>Client .env needs an api key from TMDB to display the movies, after you have that just add it to the .env file REACT_APP_API_KEY='your key'</p>
 <p>For the server .env file DB_PASSWORD='password to your db'</p>
 <p>Also if necessary change  host: 'localhost', user: 'root' from server/index.js, if necessary.</p>
+<p>Run client using npm start, run server with npm run devStart</p>
 
 <h3>Features:</h3>
 Most popular/highest rated movies from TMDB, movie details, actor details, leaving reviews for movies, register/login for users.
